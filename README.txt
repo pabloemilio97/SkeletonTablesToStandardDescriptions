@@ -1,5 +1,5 @@
-* En vez de usar un cuadrado usa un _
-* Cada columna de la tabla debe estar separada por un tab (\t)
-* En la 3ra columna, no uses P para indicar que la máquina imprime
+* Instead of using a â–¡ use an _
+* Each column must be separated by a tab (\t)
+* In the 3rd column, don't use P to indicate the machine prints
 
-- Puedes hacer tu tabla en Word y copiar y pegarla en un editor de texto, así ya sale el formato.
+- You can create your skeleton table on MS Word or Excel, then copy/paste in a text editor and the formatting is eased.
